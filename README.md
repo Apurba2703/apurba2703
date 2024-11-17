@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **JAVA & PYTHON**
 
-- 💬 Ask me about **C+, C++**
+- 💬 Ask me about **C, C++**
 
 - 📫 How to reach me **apu.rick5729@gmail.com**
 
